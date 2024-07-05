@@ -8,7 +8,7 @@ body{
 #box div,#box h2{
     display:flex;
     justify-content: center;
-    
+    align-items: center; 
 }
 
 h2{
